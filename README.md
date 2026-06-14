@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 -->
-# 975 圆体 / 975 MaruGo
+# 975 圆体 / 975 Yuan
 A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and WenYuan Rounded.   
 一款基于「思源黑体」「狮尾圆体」「昭源环方」「文渊圆体」的中文字体。
 
@@ -16,11 +16,11 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 目前只有简体中文（SC）版本。
 
 ## 预览
-![](./documentation/975maru-1.png)
-![](./documentation/975maru-2.png)
-![](./documentation/975maru-3.png)
-![](./documentation/975maru-4.png)
-![](./documentation/975maru-5.png)
+![](./documentation/975YUAN1.PNG)
+![](./documentation/975YUAN2.PNG)
+![](./documentation/975YUAN3.PNG)
+![](./documentation/975YUAN4.PNG)
+![](./documentation/975YUAN5.PNG)
 
 ## 注意事项
 - 这不是一个专业的字体文件。
@@ -28,6 +28,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
   - ~在中文和西文合并的过程中，思源黑体原有的 OpenType 特性丢失，会导致纵向排版特性无法正常体现。~ *（2020 年 9 月 2 日上传的版本已尝试解决。）*
   - ~字形（glyph）有偏左的问题。~  *（2020 年 9 月 2 日上传的版本已尝试解决。）*
   - 由于是两个不同标准写法字体的混合字体，因此会存在同一部件设计不统一的情况（如「釒」「心」「欠」等部件），本字体保留这些设计差异，统一部件设计工作量较大。
+  - 对于引号、省略号、1 em 横线等中英文共用的标点取舍问题尚无更优的解决方案。本字体引号采用 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS）在西文引号  `“‘’” ` 和中文引号 `“︁‘︁’︁”︁` 当中选择，省略号和 1 em 横线（半破折号）使用西文字体的字符。
 
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
@@ -37,7 +38,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [Releases 页面](https://github.com/lxgw/975maru/releases) 下载。
+2. 进入 [Releases 页面](https://github.com/lxgw/975Yuan/releases) 下载。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/6339.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 4. [蓝奏云下载 ~~Magisk 模块~~，密码 axme](https://www.lanzoux.com/b0cqi47ng)
 
