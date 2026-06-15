@@ -13,7 +13,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 西文搭配经过调整处理的 [Baloo 2](https://github.com/EkType/Baloo2) 字体。
 
-目前只有简体中文（SC）版本。
+目前只有简体中文（SC）版本。包含基本区和扩展 A 区所有汉字，以及扩展 B～E 区《通用规范汉字表》汉字（扩展区可能还包含一部分与增补部首区字符同形的字），满足 GB 18030-2022 实现级别 2 的收字范围。
 
 ## 预览
 ![](./documentation/975YUAN1.PNG)
